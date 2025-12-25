@@ -1,0 +1,88 @@
+{
+  "matches": [
+    {
+      "map_name": "mp_rr_desertlands_hu",
+      "aim_assist_allowed": false,
+      "match_start": 1766668906,
+      "player_results": [
+        {
+          "hardware": "PC_STEAM",
+          "nidHash": "547234cfbc5515ac67deaf459241f305956d23c07958c0857144033e5b854c7e059c92506e2378d1fe00c925c88d9b999e9b73b77abeec823ca8a6669cf36000",
+          "hits": 0,
+          "headshots": 0,
+          "knockdowns": 0,
+          "revivesGiven": 0,
+          "characterName": "bangalore",
+          "survivalTime": 121,
+          "teamNum": 3,
+          "damageDealt": 0,
+          "teamPlacement": 3,
+          "respawnsGiven": 0,
+          "shots": 5,
+          "kills": 0,
+          "teamName": "Team 2",
+          "playerName": "コイツ",
+          "assists": 0
+        },
+        {
+          "hardware": "PC_STEAM",
+          "nidHash": "0ee70fc3a09e7a28845060681c37111c83c2c841c2972f4802c0f0de9eaeec6e077b54b7047a49a80b7994775b1e3e49d705fa9c4df5814f5d76e02719307d78",
+          "hits": 6,
+          "shots": 4,
+          "knockdowns": 1,
+          "revivesGiven": 0,
+          "characterName": "lifeline",
+          "survivalTime": 173,
+          "assists": 1,
+          "damageDealt": 128,
+          "teamPlacement": 1,
+          "respawnsGiven": 0,
+          "playerName": "APEXの露出狂ちゃん",
+          "kills": 1,
+          "teamName": "Team 3",
+          "headshots": 0,
+          "teamNum": 4
+        },
+        {
+          "hardware": "PC_STEAM",
+          "nidHash": "bda6fa0ac4a503653516b73a5da79348d22e448cef0901a2cf2bd4ee93c284288ebe1fe38b72692046a03ea736531ca7225225feb725cb91e4e296adfe2e0cec",
+          "hits": 2,
+          "shots": 6,
+          "knockdowns": 1,
+          "revivesGiven": 0,
+          "characterName": "valkyrie",
+          "survivalTime": 173,
+          "assists": 1,
+          "damageDealt": 172,
+          "teamPlacement": 1,
+          "respawnsGiven": 0,
+          "playerName": "KITI",
+          "kills": 1,
+          "teamName": "Team 3",
+          "headshots": 0,
+          "teamNum": 4
+        },
+        {
+          "hardware": "PC_STEAM",
+          "nidHash": "e4b6a2732732545dacd043ef3b93604b531604cf43e4bb54f2cef10f7745e5ad26e444e6e318b5b43b1331034beb4f10a91d71c6b119b3b17de390283fb2f4b6",
+          "hits": 0,
+          "shots": 27,
+          "knockdowns": 0,
+          "revivesGiven": 0,
+          "characterName": "bloodhound",
+          "survivalTime": 173,
+          "assists": 0,
+          "damageDealt": 0,
+          "teamPlacement": 2,
+          "playerName": "PENGERION",
+          "respawnsGiven": 0,
+          "kills": 0,
+          "teamName": "Team 1",
+          "headshots": 0,
+          "teamNum": 2
+        }
+      ],
+      "mid": "0dff1420-2059-46c7-b193-dc88d820ea29:10200:1766668900"
+    }
+  ]
+}
